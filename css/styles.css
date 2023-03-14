@@ -110,7 +110,8 @@ h2 {
 
 .results__left h1 {
     font-size: 3rem;
-    line-height: .1rem
+    line-height: .1rem;
+    font-weight: 800;
 }
 
 .results__left h3 {
